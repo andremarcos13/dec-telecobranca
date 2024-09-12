@@ -1,0 +1,10 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "eslint.validate": [
+        "javascript"
+    ],
+    "totvsLanguageServer.welcomePage": false,
+    "totvsLanguageServer.editor.linter.includes": "C:\\TOTVS\\Protheus\\Protheus\\include"
+}
